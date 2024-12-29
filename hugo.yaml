@@ -8,11 +8,11 @@ params:
     enabled: true
     title: "Rintaro Hasegawa" # optional default will be site title
     subtitle: "Machine Learning Engineer at Recruit Co., Ltd."
-    # imageUrl: "<image link>" # optional
-    # imageUrl: "face.jpg"
-    # imageTitle: "<title of image as alt>" # optional
-    # imageWidth: 120 # custom size
-    # imageHeight: 120 # custom size
+    imageUrl: "<image link>" # optional
+    imageUrl: "face.jpg"
+    imageTitle: "<title of image as alt>" # optional
+    imageWidth: 120 # custom size
+    imageHeight: 120 # custom size
     # buttons:
       # - name: Archive
       #   url: "/archive"
