@@ -1,4 +1,35 @@
 baseURL: https://rintaro121.github.io/
 languageCode: en-us
-title: My New Hugo Site
+title: Home🏠 
 theme: PaperMod
+
+params:
+  profileMode:
+    enabled: true
+    title: "Rintaro Hasegawa" # optional default will be site title
+    subtitle: "Machine Learning Engineer at Recruit Co., Ltd."
+    # imageUrl: "<image link>" # optional
+    # imageUrl: "face.jpg"
+    # imageTitle: "<title of image as alt>" # optional
+    # imageWidth: 120 # custom size
+    # imageHeight: 120 # custom size
+    # buttons:
+      # - name: Archive
+      #   url: "/archive"
+      # - name: Github
+      #   url: "https://github.com/rintaro121"
+  socialIcons: # optional
+    - name: "X"
+      url: "https://x.com/rintaro_121"
+    - name: "Github"
+      url: "https://github.com/rintaro121"
+    - name: "Linkedin"
+      url: "https://www.linkedin.com/in/rintaro-hasegawa/"
+    - name: "Zenn"
+      url: "https://zenn.dev/rintaro121"
+menu:
+  main:
+    - identifier: profile
+      name: Profile
+      url: /profile
+      weight: 10
