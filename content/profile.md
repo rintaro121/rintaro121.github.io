@@ -26,9 +26,10 @@ Bachelor, Computer Science
 - Best Paper Award - HAI'22
 ([link](https://hai-conference.net/hai2022/2023/01/02/hai-2022-awards/))
 
-- 3rd Place Winner at Meta AI Video Similarity Challenge
+- 3rd Place Winner at Meta AI Video Similarity Challenge (CVPR 2023 workshop)
 ([link](https://www.drivendata.org/competitions/101/meta-video-similarity-descriptor/leaderboard/))
 
+- 1st Place Winner at Recsys Challenge 2025
 
 
 ## 📝 Other Publications
