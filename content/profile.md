@@ -23,14 +23,13 @@ Master, Computer Science
 Bachelor, Computer Science
 
 ## 🏆 Awards
-- Best Paper Award - HAI'22
-([link](https://hai-conference.net/hai2022/2023/01/02/hai-2022-awards/))
+- 1st Place Winner at Recsys Challenge 2025
 
 - 3rd Place Winner at Meta AI Video Similarity Challenge (CVPR 2023 workshop)
 ([link](https://www.drivendata.org/competitions/101/meta-video-similarity-descriptor/leaderboard/))
 
-- 1st Place Winner at Recsys Challenge 2025
-
+- Best Paper Award - HAI'22
+([link](https://hai-conference.net/hai2022/2023/01/02/hai-2022-awards/))
 
 ## 📝 Other Publications
 - [**検索＆推薦の統合モデルに関する研究動向**](https://blog.recruit.co.jp/data/articles/yomujiro_part2/) (2024.12)
