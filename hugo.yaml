@@ -13,11 +13,6 @@ params:
     imageTitle: "<title of image as alt>" # optional
     imageWidth: 120 # custom size
     imageHeight: 120 # custom size
-    # buttons:
-      # - name: Archive
-      #   url: "/archive"
-      # - name: Github
-      #   url: "https://github.com/rintaro121"
   socialIcons: # optional
     - name: "X"
       url: "https://x.com/rintaro_121"
