@@ -32,9 +32,10 @@ Bachelor, Computer Science
 ([link](https://hai-conference.net/hai2022/2023/01/02/hai-2022-awards/))
 
 ## 📚 Publications
-- **Hasegawa Rintaro**, Yosuke Fukuchi, Kohei Okuoka, Michita Imai. "Advantage Mapping: Learning Operation Mapping for User-Preferred Manipulation by Extracting Scenes with Advantage Function." Proceedings of the 10th International Conference on Human-Agent Interaction. Association for Computing Machinery, 2022. **(Best paper award)**.
-- Sawada Yuki, **Rintaro Hasegawa**, Yuhi Nagatsuma, Shugo Takei, Kazuhito Yonekawa, and Hiromu Auchi. "Toward Universal User Representations: Contrastive Learning with Transformers and Embedding Ensembles." In Proceedings of the Recommender Systems Challenge 2025, pp. 51-55. 2025.
+- **Hasegawa Rintaro**, Yosuke Fukuchi, Kohei Okuoka, Michita Imai. "*Advantage Mapping: Learning Operation Mapping for User-Preferred Manipulation by Extracting Scenes with Advantage Function.*" Proceedings of the 10th International Conference on Human-Agent Interaction. Association for Computing Machinery, 2022. **(Best paper award)**.
+- Sawada Yuki, **Rintaro Hasegawa**, Yuhi Nagatsuma, Shugo Takei, Kazuhito Yonekawa, and Hiromu Auchi. "*Toward Universal User Representations: Contrastive Learning with Transformers and Embedding Ensembles.*" In Proceedings of the Recommender Systems Challenge 2025, pp. 51-55. 2025.
 
 ## 📝 Blog Post
+- [**【解法紹介】RecSys Challenge 2025 で優勝しました**](https://blog.recruit.co.jp/data/articles/recsys-challenge-2025/) (2025.10)
 - [**検索＆推薦の統合モデルに関する研究動向**](https://blog.recruit.co.jp/data/articles/yomujiro_part2/) (2024.12)
 - [**【インターンレポート】ドキュメント画像に対する加工検知モデルのための学習データ生成**](https://engineering.linecorp.com/ja/blog/training-data-generation-for-processing-detection-model-for-document-images) (2023.05)
